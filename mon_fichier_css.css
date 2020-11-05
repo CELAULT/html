@@ -1,0 +1,27 @@
+.time
+{
+  border : 0px;
+  vertical-align : top;
+  position : relative;
+  top : -13px;
+  font-weight : lighter;
+  text-align : right;
+}
+.date{
+  width:18%;
+}
+.min5
+{height: 5px;}
+
+.yellow{
+  background-color:yellow; 
+}
+.white{
+  background-color:whitesmoke;
+}
+.bleu{
+  background-color:blue;
+}
+.white{
+  background-color:red;
+}
